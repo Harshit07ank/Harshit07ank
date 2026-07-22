@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="top-svg" viewBox="0 0 1600 140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <!-- Soft, dreamy pastel gradient (Lavender -> Blush -> Soft Cyan) -->
+                <linearGradient id="pastelGradientTop" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" stop-color="#E9D5FF"/>   <!-- Soft Lavender -->
+                    <stop offset="50%" stop-color="#FBCFE8"/>  <!-- Soft Blush Pink -->
+                    <stop offset="100%" stop-color="#BAE6FD"/> <!-- Soft Baby Blue -->
+                </linearGradient>
+
+                <!-- Diffused, softer filter for a gentle atmospheric glow, removing the harsh neon look -->
+                <filter id="gentleGlowTop" x="-20%" y="-50%" width="140%" height="200%">
+                    <feGaussianBlur stdDeviation="3" result="blur1"/>
+                    <feGaussianBlur stdDeviation="8" result="blur2"/>
+                    <!-- Reduce opacity of the glow layers so it feels pastel, not neon -->
+                    <feComponentTransfer in="blur2" result="softBlur">
+                        <feFuncA type="linear" slope="0.6"/>
+                    </feComponentTransfer>
+                    <feMerge>
+                        <feMergeNode in="softBlur"/>
+                        <feMergeNode in="blur1"/>
+                        <feMergeNode in="SourceGraphic"/>
+                    </feMerge>
+                </filter>
+            </defs>
+
+            <!-- 
+                Main Trace Line 
+                Extended wide center (250 to 1350), shallow vertical curve (85 to 55).
+            -->
+            <path id="mainTraceTop" d="M 0 85 &#10;                   L 250 85 &#10;                   C 325 85, 325 55, 400 55 &#10;                   L 1200 55 &#10;                   C 1275 55, 1275 85, 1350 85 &#10;                   L 1600 85" stroke="url(#pastelGradientTop)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#gentleGlowTop)"/>
+
+            <!-- Soft background atmospheric pulse -->
+            <ellipse rx="45" ry="5" fill="#FBCFE8" opacity="0.15" filter="url(#gentleGlowTop)">
+                <animate attributeName="opacity" values="0.05;0.25;0.05" dur="3s" repeatCount="indefinite"/>
+                <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
+                    <mpath href="#mainTraceTop"/>
+                </animateMotion>
+            </ellipse>
+
+            <!-- Inner moving light - Replaced harsh white with a soft pink/lavender mix -->
+            <ellipse rx="18" ry="2.5" fill="#FAF5FF" opacity="0.7" filter="url(#gentleGlowTop)">
+                <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2s" repeatCount="indefinite"/>
+                <animateMotion dur="10s" repeatCount="indefinite" rotate="auto">
+                    <mpath href="#mainTraceTop"/>
+                </animateMotion>
+            </ellipse>
+        </svg>
