@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="top-svg" viewBox="0 0 1600 140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <linearGradient id="skyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" stop-color="#E0F2FE"/>   <!-- Very Light Blue -->
+                    <stop offset="50%" stop-color="#0EA5E9"/>  <!-- Core Sky Blue -->
+                    <stop offset="100%" stop-color="#E0F2FE"/> <!-- Very Light Blue -->
+                </linearGradient>
+
+                <filter id="softGlow" x="-20%" y="-50%" width="140%" height="200%">
+                    <feGaussianBlur stdDeviation="4" result="blur1"/>
+                    <feGaussianBlur stdDeviation="12" result="blur2"/>
+                    <feMerge>
+                        <feMergeNode in="blur2"/>
+                        <feMergeNode in="blur1"/>
+                        <feMergeNode in="SourceGraphic"/>
+                    </feMerge>
+                </filter>
+            </defs>
+
+            <!-- 
+                Main Trace Line - Medium width, shallower curve.
+                Starts flat at Y=95, curves up to Y=45 smoothly, goes flat, curves back down to Y=95.
+            -->
+            <path id="mainTrace" d="M 0 95 &#10;                   L 550 95 &#10;                   C 600 95, 600 45, 650 45 &#10;                   L 950 45 &#10;                   C 1000 45, 1000 95, 1050 95 &#10;                   L 1600 95" stroke="url(#skyGradient)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#softGlow)"/>
+
+            <!-- Soft background pulse -->
+            <ellipse rx="40" ry="6" fill="#7DD3FC" opacity="0.3" filter="url(#softGlow)">
+                <animate attributeName="opacity" values="0.1;0.5;0.1" dur="2s" repeatCount="indefinite"/>
+                <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+                    <mpath href="#mainTrace"/>
+                </animateMotion>
+            </ellipse>
+
+            <!-- Bright inner core of the pulse -->
+            <ellipse rx="20" ry="2" fill="#FFFFFF" filter="url(#softGlow)">
+                <animate attributeName="opacity" values="0.6;1;0.6" dur="1s" repeatCount="indefinite"/>
+                <animateMotion dur="8s" repeatCount="indefinite" rotate="auto">
+                    <mpath href="#mainTrace"/>
+                </animateMotion>
+            </ellipse>
+        </svg>
