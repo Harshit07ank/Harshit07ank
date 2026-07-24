@@ -325,10 +325,8 @@ flowchart TD
 ## 🧰 Toolbox
 
 <p align="center">
-  <img src="./assets/toolbox-bounce.svg" width="100%" alt="Animated toolbox of skills"/>
+  <img src="./assets/TOOLKIT.svg" width="80%" height="50%" alt="Animated toolbox of skills"/>
 </p>
-
-<p align="center"><sub>Icons bounce continuously — Languages · Frontend · Backend & Databases · Cloud & DevOps · Creative Tech & AI · Tools & Platforms</sub></p>
 
 <p align="center"><sub>🔭 <b>Currently exploring:</b> Software Architecture · Distributed Systems · Performance Optimization · Cloud Deployment</sub></p>
 
