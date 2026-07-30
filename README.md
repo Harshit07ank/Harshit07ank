@@ -1,7 +1,4 @@
-<!-- ============ TOP BANNER (capsule-render, replaces the old static border SVG) ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:3B82F6,100:0F766E&height=190&section=header&text=Harshit%20Tyagi&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Building%20intelligent%20systems%20%26%20immersive%20experiences&descAlignY=62&descSize=18" width="100%" />
-</p>
+
 
 <!-- ============ HEADER ============ -->
 
