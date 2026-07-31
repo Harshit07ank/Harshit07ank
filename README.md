@@ -1,4 +1,5 @@
 
+</p>
 <!-- ============ HEADER ============ -->
 
 <h3 align="center">
@@ -14,31 +15,32 @@
   </a>
 </p>
 <p align="center">
-  <samp>Computer Science Engineering student building immersive web experiences, scalable backend systems,<br/>
-  real-time applications, and AI-powered products — currently deep in Three.js and shader work.</samp>
+  From AI-powered applications to immersive web experiences, I enjoy building software that combines thoughtful design,<br> scalable architecture, and modern web technologies.<br>
+<samp>Currently exploring <b>Three.js</b>, <b>WebGL</b>, <b>distributed systems</b>, and <b>cloud-native development</b>.</samp>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-0a0a0b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Three.js-0a0a0b?style=for-the-badge&logo=three.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Node.js-0a0a0b?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/AI-0a0a0b?style=for-the-badge&color=0a0a0b" />
+<img src="https://img.shields.io/badge/Backend_Developer-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Creative_Designer-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js_Engineer-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Builder-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
-
 <!-- ============ CONNECT (moved to the top, as requested) ============ -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-tyagi-07ank" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:harshit07ank@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0a0a0b?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="#" target="_blank">
-    <!-- swap the # for your live portfolio URL -->
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  </a>
-</p>
+
+<a href="https://www.linkedin.com/in/harshit-tyagi-07ank" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:harshit07ank@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://your-portfolio-url.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&color=FFFFFF" alt="Portfolio"/>
+</a>
+
 
 <br/>
 
@@ -49,7 +51,7 @@ I enjoy building software where graphics, systems and AI meet.<br>
 Currently exploring Three.js, shaders, distributed systems and modern backend<br>
 architecture while shipping projects that solve real problems.<br> 
 
-<h2>💼 Selected Work</h2>
+<h2> Selected Work</h2>
 
 <div align="left">
 
