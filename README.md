@@ -1,5 +1,4 @@
 
-</p>
 <!-- ============ HEADER ============ -->
 
 <h3 align="center">
@@ -168,6 +167,15 @@ real-time rendering, optimization techniques, and shader programming.
 ![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Postman](https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![npm](https://img.shields.io/badge/npm-18181B?style=for-the-badge&logo=npm&logoColor=CB3837)
+
+<div align="center">
+ 
+  <img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/languages.svg" alt="Top Languages" /><br>
+   <img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/streak.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/contribution.svg" alt="GitHub Contributions" />
+  
+  <br />
+</div>
 
 <!-- ============ ENGINEERING JOURNEY ============ -->
 
