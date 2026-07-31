@@ -1,20 +1,18 @@
 
-
 <!-- ============ HEADER ============ -->
 
 <h3 align="center">
   <samp>
     > Hey There!, I am
-    <b><a target="_blank" href="https://www.linkedin.com/in/harshit-tyagi-07ank">HARSHIT TYAGI</a></b>
+    <b><a target="_blank" color="7DD3FC" href="https://www.linkedin.com/in/harshit-tyagi-07ank">HARSHIT TYAGI</a></b>
   </samp>
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-tyagi-07ank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+systems+%F0%9F%A4%96;Crafting+immersive+web+experiences+%E2%9C%A8;Engineering+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Shipping+AI-powered+products+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+interactive+web+experiences.;Developing+AI-powered+applications.;Exploring+Three.js,+WebGL+and+GLSL.;Always+learning,+always+building." alt="Typing SVG"/>
   </a>
 </p>
-
 <p align="center">
   <samp>Computer Science Engineering student building immersive web experiences, scalable backend systems,<br/>
   real-time applications, and AI-powered products — currently deep in Three.js and shader work.</samp>
@@ -44,111 +42,134 @@
 
 <br/>
 
-<!-- ============ SELECTED WORK ============ -->
+> CS graduate from India.<br>
+> Building interactive web experiences, backend systems and AI products.
 
-## 💼     Selected Work
+I enjoy building software where graphics, systems and AI meet.<br>
+Currently exploring Three.js, shaders, distributed systems and modern backend<br>
+architecture while shipping projects that solve real problems.<br> 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=5&section=header" width="100%"/>
+<h2>💼 Selected Work</h2>
 
-<table>
-<tr>
-<td width="55%" valign="middle">
+<div align="left">
 
-### 🔗 [CHITEASE](https://github.com/Harshit07ank/CHITEASE)
-<img src="https://img.shields.io/badge/AI_Platform-6d28d9?style=flat-square"/>
+<a href="https://github.com/Harshit07ank/CHITEASE">
+  <img
+    src="./assets/chitease-preview.png.png"
+    width="150"
+    align="left"
+    style="margin-right:20px; border-radius:10px;"
+  />
+</a>
 
-**AI-powered digital chit fund platform**
+### **CHITEASE**
+<samp>MERN · Firebase · AI</samp><br>
+AI-powered digital chit fund platform focused on secure workflows,
+automation, digital auctions, payments and intelligent verification.<br>
+**→ Repository:** https://github.com/Harshit07ank/CHITEASE
 
-Modernizes traditional chit fund management with secure digital workflows, automation, and AI-assisted verification.
+<br clear="left"/>
 
-<img src="https://img.shields.io/badge/JavaScript-6d28d9?style=flat-square"/> <img src="https://img.shields.io/badge/MERN-6d28d9?style=flat-square"/> <img src="https://img.shields.io/badge/AI_Integration-6d28d9?style=flat-square"/>
+<!-- IRIS -->
+<a href="https://github.com/Harshit07ank/IRIS">
+  <img
+    src="./assets/iris-preview.png.png"
+    width="150"
+    align="left"
+    alt="IRIS Preview"
+  />
+</a>
 
-**[View Repository →](https://github.com/Harshit07ank/CHITEASE)**
+### **IRIS**
+<samp>JavaScript · Gemini API · Accessibility</samp><br>
+Accessibility platform combining multimodal AI,
+speech recognition, voice interaction, and intelligent assistance
+for visually impaired users.
+<br>
+**→ Repository:** https://github.com/Harshit07ank/IRIS
 
-</td>
-<td width="45%">
-<img src="./assets/chitease-preview.png.png" width="100%" alt="CHITEASE preview"/>
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=BE185D&height=5&section=header" width="100%"/>
+<!-- Interactive Portfolio -->
+<a href="#">
+  <img
+    src="./assets/interactive-portfolio-preview.png"
+    width="150"
+    align="left"
+    alt="Portfolio Preview"
+  />
+</a>
 
-<table>
-<tr>
-<td width="45%">
-<img src="./assets/iris-preview.png.png" width="100%" alt="IRIS preview"/>
-</td>
-<td width="55%" valign="middle">
+### **Interactive Portfolio**
+<samp>Three.js · React · GLSL · WebGL</samp><br>
+A story-driven developer portfolio featuring procedural environments,
+custom shaders, immersive animations, and interactive 3D experiences.
+<br>
+**→ Repository:** Coming Soon
 
-### 🔗 [IRIS](https://github.com/Harshit07ank/IRIS)
-<img src="https://img.shields.io/badge/Accessibility-be185d?style=flat-square"/>
+<br clear="left"/>
 
-**Vision through voice**
 
-Accessibility platform combining multimodal AI, speech recognition, and voice interaction.
+<!-- Procedural World Engine -->
+<a href="#">
+  <img
+    src="./assets/procedural-engine-preview.png"
+    width="150"
+    align="left"
+    alt="Procedural World Engine Preview"
+  />
+</a>
 
-<img src="https://img.shields.io/badge/JavaScript-be185d?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini_API-be185d?style=flat-square"/> <img src="https://img.shields.io/badge/Accessibility-be185d?style=flat-square"/>
+### **Procedural World Engine**
+<samp>Three.js · WebGL · GLSL · Rendering</samp><br>
+Graphics research exploring procedural terrain generation,
+real-time rendering, optimization techniques, and shader programming.
+<br>
+**→ Repository:** Coming Soon
 
-**[View Repository →](https://github.com/Harshit07ank/IRIS)**
+<br clear="left"/>
 
-</td>
-</tr>
-</table>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F766E&height=5&section=header" width="100%"/>
+<!-- ============ TECH STACK ============ -->
 
-<table>
-<tr>
-<td width="55%" valign="middle">
 
-### 🚧 Interactive Portfolio
-<img src="https://img.shields.io/badge/In_Progress-0f766e?style=flat-square"/>
+##  TECH STACK
 
-**Story-driven portfolio**
-
-Story-driven portfolio built with procedural environments and immersive animation — the proving ground for the Three.js graphics work.
-
-<img src="https://img.shields.io/badge/Three.js-0f766e?style=flat-square"/> <img src="https://img.shields.io/badge/WebGL-0f766e?style=flat-square"/> <img src="https://img.shields.io/badge/GLSL-0f766e?style=flat-square"/>
-
-</td>
-<td width="45%">
-<!-- placeholder path — swap for your real preview image -->
-<img src="./assets/interactive-portfolio-preview.png" width="100%" alt="Interactive Portfolio preview"/>
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C2410C&height=5&section=header" width="100%"/>
-
-<table>
-<tr>
-<td width="45%">
-<!-- placeholder path — swap for your real preview image -->
-<img src="./assets/procedural-engine-preview.png" width="100%" alt="Procedural World Engine preview"/>
-</td>
-<td width="55%" valign="middle">
-
-### 🚧 Procedural World Engine
-<img src="https://img.shields.io/badge/Early_Stage-c2410c?style=flat-square"/>
-
-**Graphics R&D**
-
-Graphics experiments in terrain generation, shaders, and rendering optimization.
-
-<img src="https://img.shields.io/badge/WebGL-c2410c?style=flat-square"/> <img src="https://img.shields.io/badge/GLSL-c2410c?style=flat-square"/> <img src="https://img.shields.io/badge/Procedural_Generation-c2410c?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9,BE185D,0F766E,C2410C&height=5&section=header" width="100%"/>
-
-<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB)<br>
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![React](https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Vite](https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite&logoColor=646CFF)
+![HTMX](https://img.shields.io/badge/HTMX-18181B?style=for-the-badge&logo=htmx&logoColor=3366CC)<br>
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=47A248)<br>
+![Firebase](https://img.shields.io/badge/Firebase-18181B?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18181B?style=for-the-badge&logo=githubactions&logoColor=2088FF)<br> 
+![Three.js](https://img.shields.io/badge/Three.js-18181B?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
+![WebGL](https://img.shields.io/badge/WebGL-18181B?style=for-the-badge&logo=webgl&logoColor=990000)
+![GLSL](https://img.shields.io/badge/GLSL-18181B?style=for-the-badge&logo=opengl&logoColor=5586A4)
+![Shaders](https://img.shields.io/badge/Shaders-18181B?style=for-the-badge&logo=shader&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/Blender-18181B?style=for-the-badge&logo=blender&logoColor=F5792A)
+![Gemini API](https://img.shields.io/badge/Gemini_API-18181B?style=for-the-badge&logo=googlegemini&logoColor=8E75FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-18181B?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Git](https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![npm](https://img.shields.io/badge/npm-18181B?style=for-the-badge&logo=npm&logoColor=CB3837)
 
 <!-- ============ ENGINEERING JOURNEY ============ -->
 
-## 🧭 Engineering Journey
+##  Engineering Journey
 
 <div align="center">
 
@@ -169,7 +190,7 @@ Graphics experiments in terrain generation, shaders, and rendering optimization.
 <div align="center">
 
 <details>
-<summary><b>📖 See the full journey</b></summary>
+<summary><b> See the full journey</b></summary>
 
 ```mermaid
 %%{init: {"flowchart": {"wrappingWidth": 650, "nodeSpacing": 12, "rankSpacing": 18, "curve": "basis"}}}%%
@@ -310,46 +331,13 @@ flowchart TD
     class card2026 card2026style
     class cardnow cardnowstyle
 ```
-
 </details>
-
 </div>
-
 <br/>
 
-<!-- ============ TOOLBOX (animated) ============ -->
-
-## 🧰 Toolbox
-
+> *"I enjoy building software where graphics, systems, and AI come together to create interactive experiences."*
+<p align="center">🔭 <b>Currently exploring:</b> Software Architecture · Distributed Systems · Performance Optimization · Cloud Deployment</p>
+<br/>
 <p align="center">
-  <img src="./assets/TOOLKIT.svg" width="80%" height="50%" alt="Animated toolbox of skills"/>
-</p>
-
-<p align="center"><sub>🔭 <b>Currently exploring:</b> Software Architecture · Distributed Systems · Performance Optimization · Cloud Deployment</sub></p>
-
-<br/>
-
-<!-- ============ GITHUB STATS ============ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Harshit07ank&show_icons=true&theme=dark&bg_color=0a0a0b&border_color=27272a&title_color=3b82f6&icon_color=3b82f6&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit07ank&layout=compact&theme=dark&bg_color=0a0a0b&border_color=27272a&title_color=3b82f6&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit07ank&theme=dark&background=0a0a0b&border=27272a&ring=3b82f6&fire=3b82f6&hide_border=true" />
-
-</div>
-
-<br/>
-
-<p align="center">
-  <sub>Great software is built through curiosity, consistency, and continuous learning.</sub>
-</p>
-
-<p align="center">
-  <img src="./assets/BOTTOM LINE.svg" width="100%" />
+  Great software is built through curiosity, consistency, and continuous learning.
 </p>
