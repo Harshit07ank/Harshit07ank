@@ -66,9 +66,10 @@ architecture while shipping projects that solve real problems.<br>
 <samp>MERN · Firebase · AI</samp><br>
 AI-powered digital chit fund platform focused on secure workflows,
 automation, digital auctions, payments and intelligent verification.<br>
-**→ Repository:** https://github.com/Harshit07ank/CHITEASE
+**→ Repository:** https://github.com/Harshit07ank/CHITEASE<br> 
+**→ Live link** https://chitease-fc53a.web.app/
 
-<br clear="left"/>.
+<br clear="left"/>
 
 <!-- IRIS -->
 <a href="https://github.com/Harshit07ank/IRIS">
@@ -86,7 +87,8 @@ Accessibility platform combining multimodal AI,
 speech recognition, voice interaction, and intelligent assistance
 for visually impaired users.
 <br>
-**→ Repository:** https://github.com/Harshit07ank/IRIS
+**→ Repository:** https://github.com/Harshit07ank/IRIS<br> 
+**→ Live link:** https://iris-33844.web.app/
 
 <br clear="left"/>
 
@@ -94,7 +96,7 @@ for visually impaired users.
 <a href="#">
   <img
     src="./assets/portfolio.png"
-    width="150"
+    width="190"
     align="left"
     alt="Portfolio Preview"
   />
@@ -105,7 +107,8 @@ for visually impaired users.
 A story-driven developer portfolio featuring procedural environments,
 custom shaders, immersive animations, and interactive 3D experiences.
 <br>
-**→ Repository:** https://harshit07ank.vercel.app/
+**→ Repository:** https://github.com/Harshit07ank/PORTFOLIO<br> 
+**→ Live link:** https://harshit07ank.vercel.app/
 
 <br clear="left"/>
 
@@ -125,7 +128,8 @@ custom shaders, immersive animations, and interactive 3D experiences.
 Graphics research exploring procedural terrain generation,
 real-time rendering, optimization techniques, and shader programming.
 <br>
-**→ Repository:** https://procedural-world-en.vercel.app/
+**→ Repository:** https://github.com/Harshit07ank/Procedural-World<br> 
+**→ Live link:** https://procedural-world-en.vercel.app/
 
 <br clear="left"/>
 
@@ -182,15 +186,10 @@ real-time rendering, optimization techniques, and shader programming.
 
 <div align="center">
 
-![2022](https://img.shields.io/badge/2022-Python_%26_C-6d28d9?style=flat-square)
-➜
-![2023](https://img.shields.io/badge/2023-JavaScript-be185d?style=flat-square)
-➜
-![2024](https://img.shields.io/badge/2024-Three.js_%26_Node-6d28d9?style=flat-square)
-➜
-![2025](https://img.shields.io/badge/2025-AI_%26_Full_Stack-0f766e?style=flat-square)
-➜
-![2026](https://img.shields.io/badge/2026-Interactive_Graphics-c2410c?style=flat-square)
+<sub>🛤️ THE JOURNEY SO FAR</sub>
+
+| ![2022](https://img.shields.io/badge/2022-Python_%26_C-6d28d9?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2023](https://img.shields.io/badge/2023-JavaScript-be185d?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2024](https://img.shields.io/badge/2024-Three.js_%26_Node-6d28d9?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2025](https://img.shields.io/badge/2025-AI_%26_Full_Stack-0f766e?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2026](https://img.shields.io/badge/2026-Interactive_Graphics-c2410c?style=for-the-badge) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
