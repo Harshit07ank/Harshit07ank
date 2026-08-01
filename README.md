@@ -20,7 +20,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Backend_Developer-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Creative_Designer-7C3AED?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js_Engineer-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Builder-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
@@ -36,7 +35,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://your-portfolio-url.com" target="_blank">
+<a href="https://https://harshit07ank.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&color=FFFFFF" alt="Portfolio"/>
 </a>
 
@@ -56,7 +55,7 @@ architecture while shipping projects that solve real problems.<br>
 
 <a href="https://github.com/Harshit07ank/CHITEASE">
   <img
-    src="./assets/chitease-preview.png.png"
+    src="./assets/chitease.png"
     width="150"
     align="left"
     style="margin-right:20px; border-radius:10px;"
@@ -69,12 +68,12 @@ AI-powered digital chit fund platform focused on secure workflows,
 automation, digital auctions, payments and intelligent verification.<br>
 **→ Repository:** https://github.com/Harshit07ank/CHITEASE
 
-<br clear="left"/>
+<br clear="left"/>.
 
 <!-- IRIS -->
 <a href="https://github.com/Harshit07ank/IRIS">
   <img
-    src="./assets/iris-preview.png.png"
+    src="./assets/iris.png"
     width="150"
     align="left"
     alt="IRIS Preview"
@@ -94,7 +93,7 @@ for visually impaired users.
 <!-- Interactive Portfolio -->
 <a href="#">
   <img
-    src="./assets/interactive-portfolio-preview.png"
+    src="./assets/portfolio.png"
     width="150"
     align="left"
     alt="Portfolio Preview"
@@ -106,7 +105,7 @@ for visually impaired users.
 A story-driven developer portfolio featuring procedural environments,
 custom shaders, immersive animations, and interactive 3D experiences.
 <br>
-**→ Repository:** Coming Soon
+**→ Repository:** https://harshit07ank.vercel.app/
 
 <br clear="left"/>
 
@@ -114,7 +113,7 @@ custom shaders, immersive animations, and interactive 3D experiences.
 <!-- Procedural World Engine -->
 <a href="#">
   <img
-    src="./assets/procedural-engine-preview.png"
+    src="./assets/procedural world.png"
     width="150"
     align="left"
     alt="Procedural World Engine Preview"
@@ -126,7 +125,7 @@ custom shaders, immersive animations, and interactive 3D experiences.
 Graphics research exploring procedural terrain generation,
 real-time rendering, optimization techniques, and shader programming.
 <br>
-**→ Repository:** Coming Soon
+**→ Repository:** https://procedural-world-en.vercel.app/
 
 <br clear="left"/>
 
