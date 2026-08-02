@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-tyagi-07ank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Building+interactive+web+experiences.;Developing+AI-powered+applications.;Exploring+Three.js,+WebGL+and+GLSL.;Always+learning,+always+building." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+interactive+web+experiences.;Developing+AI-powered+applications.;Exploring+Three.js,+WebGL+and+GLSL.;Always+learning,+always+building." alt="Typing SVG"/>
   </a>
 </p>
 <p align="center">
@@ -38,17 +38,26 @@
 <a href="https://https://harshit07ank.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&color=FFFFFF" alt="Portfolio"/>
 </a>
-
-
 <br/>
+<img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/streak.svg" alt="GitHub Streak"
+width="550"
+align="right"
+style="margin-right:2px; border-radius:1px;"/>
 
 > CS graduate from India.<br>
 > Building interactive web experiences, backend systems and AI products.
 
 I enjoy building software where graphics, systems and AI meet.<br>
 Currently exploring Three.js, shaders, distributed systems and modern backend<br>
-architecture while shipping projects that solve real problems.<br> 
+architecture while shipping projects that solve real problems.
 
+</a> <br> 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/contribution.svg" alt="GitHub Contributions" 
+width="1000"
+height="400"
+align="center"/>
+</div>
 <h2> Selected Work</h2>
 
 <div align="left">
@@ -66,6 +75,7 @@ architecture while shipping projects that solve real problems.<br>
 <samp>MERN · Firebase · AI</samp><br>
 AI-powered digital chit fund platform focused on secure workflows,
 automation, digital auctions, payments and intelligent verification.<br>
+
 **→ Repository:** https://github.com/Harshit07ank/CHITEASE<br> 
 **→ Live link** https://chitease-fc53a.web.app/
 
@@ -174,8 +184,7 @@ real-time rendering, optimization techniques, and shader programming.
 <div align="center">
  
   <img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/languages.svg" alt="Top Languages" /><br>
-   <img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/streak.svg" alt="GitHub Streak" />
-  <img src="https://raw.githubusercontent.com/Harshit07ank/github-dashboard/main/output/contribution.svg" alt="GitHub Contributions" />
+
   
   <br />
 </div>
@@ -186,9 +195,8 @@ real-time rendering, optimization techniques, and shader programming.
 
 <div align="center">
 
-<sub>🛤️ THE JOURNEY SO FAR</sub>
-
-| ![2022](https://img.shields.io/badge/2022-Python_%26_C-6d28d9?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2023](https://img.shields.io/badge/2023-JavaScript-be185d?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2024](https://img.shields.io/badge/2024-Three.js_%26_Node-6d28d9?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2025](https://img.shields.io/badge/2025-AI_%26_Full_Stack-0f766e?style=for-the-badge) | ![→](https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a) | ![2026](https://img.shields.io/badge/2026-Interactive_Graphics-c2410c?style=for-the-badge) |
+ THE JOURNEY SO FAR
+| <img src="https://img.shields.io/badge/2022-Python_%26_C-6d28d9?style=for-the-badge" height="40"/> | <img src="https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a" height="40"/> | <img src="https://img.shields.io/badge/2023-JavaScript-be185d?style=for-the-badge" height="40"/> | <img src="https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a" height="40"/> | <img src="https://img.shields.io/badge/2024-Three.js_%26_Node-6d28d9?style=for-the-badge" height="40"/> | <img src="https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a" height="40"/> | <img src="https://img.shields.io/badge/2025-AI_%26_Full_Stack-0f766e?style=for-the-badge" height="40"/> | <img src="https://img.shields.io/badge/→-000000?style=for-the-badge&color=1a1a1a" height="40"/> | <img src="https://img.shields.io/badge/2026-Interactive_Graphics-c2410c?style=for-the-badge" height="40"/> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
